@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YOUNGWOLVES-MERN-/static/css/main.3fd4889f.css",
+    "main.js": "/YOUNGWOLVES-MERN-/static/js/main.e3aaa38f.js",
+    "static/js/787.0440b98a.chunk.js": "/YOUNGWOLVES-MERN-/static/js/787.0440b98a.chunk.js",
+    "index.html": "/YOUNGWOLVES-MERN-/index.html",
+    "main.3fd4889f.css.map": "/YOUNGWOLVES-MERN-/static/css/main.3fd4889f.css.map",
+    "main.e3aaa38f.js.map": "/YOUNGWOLVES-MERN-/static/js/main.e3aaa38f.js.map",
+    "787.0440b98a.chunk.js.map": "/YOUNGWOLVES-MERN-/static/js/787.0440b98a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd4889f.css",
+    "static/js/main.e3aaa38f.js"
+  ]
+}
